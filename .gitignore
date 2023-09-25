@@ -1,0 +1,13 @@
+**/.vscode/
+
+.DS_Store/
+
+/remove_gray.dSYM/Contents/
+
+/smallestNumber.dSYM/Contents/
+
+Resources/
+
+**/output/
+
+build/
