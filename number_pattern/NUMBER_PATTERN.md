@@ -1,10 +1,10 @@
 # C++ Number Pattern Challenge
 
-## Introduction
+## Introduction:
 
 The C++ Number Pattern Challenge involves implementing a recursive function called `PrintNumPattern()` to generate a specific number pattern. Given a positive integer as input, along with another positive integer, the function subtracts the second integer continually until a negative value is reached. Then, it adds the second integer continually until the first integer is reached again. The lab requirements specify not ending the output with a newline.
 
-## How to Use
+## How to Use:
 
 Follow these steps to use the provided C++ solution for the "Number Pattern" challenge:
 
@@ -29,7 +29,22 @@ Follow these steps to use the provided C++ solution for the "Number Pattern" cha
 
 - The generated number pattern will be displayed as a sequence of integers, separated by spaces, without ending with a newline.
 
-## Contributing
+## Example:
+
+- If the input is:
+
+```
+12
+3
+```
+
+- The output is:
+
+```
+12 9 6 3 0 -3 0 3 6 9 12
+```
+
+## Contributing:
 
 If you'd like to contribute to this C++ solution, please follow these steps:
 
