@@ -2,14 +2,6 @@
 
 This program is designed to parse user-provided strings that contain two words separated by a comma. The program guides the user through the input process, validates the input, and extracts the two words, removing any leading or trailing spaces.
 
-## Table of Contents
-
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Example](#example)
-- [Program Explanation](#program-explanation)
-- [Author](#author)
-
 ## Requirements
 
 - C++ compiler
